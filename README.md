@@ -12,7 +12,7 @@ Format : [Data],[Time],[Information],
 
 Shell script (dwlog.sh) can be used to dump information from worklog.txt file. The shellscript accepts arguments to filter the outputs. In simple format user can provide date information to get relevant work log.
 
-_sample worklog.txt
+__sample worklog.txt__
 ```
 
 ----------------------------------------------------------------------
@@ -20,7 +20,7 @@ _sample worklog.txt
 2017-02-02  21:03,Started working on jot utility,
 
 ```
-_sample output from dwlog.sh
+__sample output from dwlog.sh__
 
 ```
 
